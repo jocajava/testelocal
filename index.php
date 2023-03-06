@@ -1,2 +1,2 @@
-entrar.campo
-navegar.campo
+entrar.campo.teste
+navegar.campo.teste
