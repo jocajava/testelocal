@@ -1,2 +1,2 @@
-usuario.campo
-senhha.campo
+entrar.campo
+navegar.campo
