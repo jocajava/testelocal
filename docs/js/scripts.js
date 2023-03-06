@@ -1,0 +1,2 @@
+script.usuario
+script.senhha
